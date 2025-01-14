@@ -52,7 +52,7 @@ export default function Home() {
   return (
     <div className="grid grid-cols-12 justify-center items-center mt-10 space-y-12 p-5 min-screen w-full">
       <div className="col-span-12">
-        <h1 className="text-center lilita-one-regular text-orange-700">Busca tu producto </h1>
+        <h1 className="text-center lilita-one-regular text-orange-700">Buscá tu producto </h1>
       </div>
 
       <div className="col-span-12 mb-4 flex justify-center">
