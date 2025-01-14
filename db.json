@@ -1,0 +1,165 @@
+{
+  "products": [
+    {
+      "sku": "P001",
+      "name": "Alfajor Triple Chocolate",
+      "description": "Alfajor triple relleno de dulce de leche y cubierto de chocolate.",
+      "image": "https://3hdistribucion.com/wp-content/uploads/2024/04/1692.jpg",
+      "category": {
+        "id": "C001",
+        "name": "Snacks"
+      },
+      "brand": "Jorgito",
+      "price": 250.0,
+      "stock": 30,
+      "specifications": [
+        { "name": "Peso", "value": "80g" }
+      ]
+    },
+    {
+      "sku": "P002",
+      "name": "Gaseosa Cola 500ml",
+      "description": "Bebida gaseosa sabor cola.",
+      "image": "https://acdn.mitiendanube.com/stores/798/865/products/107875591-3947f390ec534bbb3d17255149241633-1024-1024.jpg",
+      "category": {
+        "id": "C002",
+        "name": "Bebidas"
+      },
+      "brand": "Coca-Cola",
+      "price": 180.0,
+      "stock": 20,
+      "specifications": [
+        { "name": "Volumen", "value": "500ml" }
+      ]
+    },
+    {
+      "sku": "P003",
+      "name": "Papas Fritas Clásicas",
+      "description": "Papas fritas con sal.",
+      "image": "https://f2h.shop/media/catalog/product/cache/ab45d104292f1bb63d093e6be8310c97/l/a/lays_clasicas_150gx15_uy.png",
+      "category": {
+        "id": "C001",
+        "name": "Snacks"
+      },
+      "brand": "Lays",
+      "price": 300.0,
+      "stock": 15,
+      "specifications": [
+        { "name": "Peso", "value": "150g" }
+      ]
+    },
+    {
+      "sku": "P004",
+      "name": "Agua Mineral 1L",
+      "description": "Agua mineral sin gas.",
+      "image": "https://http2.mlstatic.com/D_963499-MLA74135902970_012024-C.jpg",
+      "category": {
+        "id": "C002",
+        "name": "Bebidas"
+      },
+      "brand": "Villavicencio",
+      "price": 120.0,
+      "stock": 25,
+      "specifications": [
+        { "name": "Volumen", "value": "1L" }
+      ]
+    },
+    {
+      "sku": "P005",
+      "name": "Chicles Menta",
+      "description": "Paquete de chicles sabor menta.",
+      "image": "https://www.zanettigolosinas.com.ar/datos/uploads/mod_catalogo/32431/bel-men-63100fe05f51e.webp",
+      "category": {
+        "id": "C001",
+        "name": "Snacks"
+      },
+      "brand": "Beldent",
+      "price": 150.0,
+      "stock": 50,
+      "specifications": [
+        { "name": "Cantidad", "value": "10 unidades" }
+      ]
+    },
+    {
+      "sku": "P006",
+      "name": "Cerveza Rubia 500ml",
+      "description": "Cerveza artesanal rubia.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bsOh5QwaqHz2fLh0pALYU-JK-KJGf1FEtA&s",
+      "category": {
+        "id": "C002",
+        "name": "Bebidas"
+      },
+      "brand": "Quilmes",
+      "price": 250.0,
+      "stock": 18,
+      "specifications": [
+        { "name": "Volumen", "value": "500ml" },
+        { "name": "Alcohol", "value": "5%" }
+      ]
+    },
+    {
+      "sku": "P007",
+      "name": "Barra de Chocolate",
+      "description": "Barra de chocolate con leche.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7u_t4ETkWD5W93gPkbgHRjBFNhFU3I6STOw&s",
+      "category": {
+        "id": "C001",
+        "name": "Dulces"
+      },
+      "brand": "Milka",
+      "price": 350.0,
+      "stock": 22,
+      "specifications": [
+        { "name": "Peso", "value": "100g" }
+      ]
+    },
+    {
+      "sku": "P008",
+      "name": "Desodorante Aerosol",
+      "description": "Desodorante en aerosol para hombres.",
+      "image": "https://simplicityar.vtexassets.com/arquivos/ids/159688-800-auto?v=638205502245830000&width=800&height=auto&aspect=true",
+      "category": {
+        "id": "C003",
+        "name": "Higiene"
+      },
+      "brand": "Axe",
+      "price": 650.0,
+      "stock": 10,
+      "specifications": [
+        { "name": "Volumen", "value": "150ml" }
+      ]
+    },
+    {
+      "sku": "P009",
+      "name": "Cepillo de Dientes",
+      "description": "Cepillo dental de cerdas suaves.",
+      "image": "https://farmacityar.vtexassets.com/arquivos/ids/257991-800-auto?v=638557794438130000&width=800&height=auto&aspect=true",
+      "category": {
+        "id": "C003",
+        "name": "Higiene"
+      },
+      "brand": "Colgate",
+      "price": 400.0,
+      "stock": 12,
+      "specifications": [
+        { "name": "Tipo", "value": "Cerdas suaves" }
+      ]
+    },
+    {
+      "sku": "P010",
+      "name": "Yerba Mate",
+      "description": "Yerba mate con palo.",
+      "image": "https://shop.gustoargentino.com/cdn/shop/products/yerba-mate-Taragui-original-con-palo-500g.png?v=1680535250&width=480",
+      "category": {
+        "id": "C005",
+        "name": "Infusiones"
+      },
+      "brand": "Taragüi",
+      "price": 700.0,
+      "stock": 20,
+      "specifications": [
+        { "name": "Peso", "value": "1kg" }
+      ]
+    }
+  ]
+}
